@@ -55,6 +55,8 @@ public class Loops {
         for (int i = 0; i < numbers.length; i++) {
             if (numbers[i] > max) {
                 max = numbers[i];
+
+
             }
         }
         // consejo: declara la variable "max" fuera del loop
